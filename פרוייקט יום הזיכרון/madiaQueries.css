@@ -1,0 +1,68 @@
+@media (min-width: 280px) and (max-width: 600px) { 
+body{width: 90%;font-size: 15px;padding: 0px;background: linear-gradient(#1c1c1d, #777c80);;justify-content: center;}
+#constractor{background-image: none; background-repeat: none; background-size:  none;}
+h2{font-size: 17px; color: white;}
+h3{font-size: 15px;}
+#title{padding: 0px;}
+#boxes{display: block; margin-left: 50px;}
+#boxOne{width: 100%;}
+#boxTwo{width: 100%;}
+#boxThree{width: 100%;}
+#textInput{font-size: 15px; width: 140px;}
+.imgCandle{width: 30px;}
+.candlesBtn{font-size: 10px;}
+#prayer{font-size: 15px; margin: 0px; color: white;}
+#oneGif{height: 250px;top: 185px;right: 48px;}
+#oneGifImg{width: 158px;margin-top: 262px;}
+#oneGifTitle{font-size: 20px;}
+#oneGifText{padding-top: 8px;font-size: 12px;}
+#x{width: 20px;}
+#xBtn{right: 124px;top: 5px;}
+#twoGif{height: 250px;top: 185px;right: 48px;}
+#twoGifImg{width: 158px;margin-top: 262px;}
+#twoGifTitle{font-size: 20px;}
+#twoGifText{padding-top: 8px;font-size: 12px;}
+#userText{font-size: 12px;padding-top: 40px;}
+#xTwo{width: 20px;}
+#xTwoBtn{right: 124px;top: 5px;}
+#threeGif{height: 250px;top: 185px;right: 123px;}
+#xBtnThree{right: 109px;top: 5px;}
+#xThree{width: 20px;}
+#threeGifTitle{font-size: 20px;}
+#threeGifText{padding-top: 8px;font-size: 12px;}
+#threeGifImg{width: 134px;height: 132px;margin-top: -207px;}
+}
+ @media (min-width: 601px) and (max-width: 850px) { 
+    body{width: 90%;font-size: 15px;padding: 0px;background: linear-gradient(110deg, #02213a6b 60%, #a3a295 60%);;justify-content: center;}
+    #constractor{background-image: none; background-repeat: none; background-size:  none;}
+    h2{font-size: 30px}
+    h3{font-size: 25px;}
+    #title{padding: 0px;}
+    #boxes{display: block; margin-left: 50px;}
+    #boxOne{width: 100%;}
+    #boxTwo{width: 100%;}
+    #boxThree{width: 100%;}
+    #textInput{font-size: 25px; width: 140px;}
+    .imgCandle{width: 70px;}
+    .candlesBtn{font-size: 15px;}
+    #prayer{font-size: 23px; margin: 0px;}
+    #oneGif{height: 500px;top: 185px;right: 100px; width: 400px;}
+    #oneGifImg{width: 400px;margin-top: 300px;}
+    #oneGifTitle{font-size: 50px;}
+    #oneGifText{padding-top: 8px;font-size: 25px;}
+    #x{width: 25px;}
+    #xBtn{right: 369px;top: 5px;}
+    #twoGif{height: 500px;top: 185px;right: 100px;width: 400px}
+    #twoGifImg{width: 400px;margin-top: 300px;}
+    #twoGifTitle{font-size: 50px;}
+    #twoGifText{padding-top: 8px;font-size: 25px;}
+    #userText{font-size: 20px;padding-top: 40px;}
+    #xTwo{width: 25px;}
+    #xTwoBtn{right: 369px;top: 5px;}
+    #threeGif{height: 500px;top: 185px;right: 100px;width: 350px}
+    #xBtnThree{right: 330px;top: 5px;}
+    #xThree{width: 25px;}
+    #threeGifTitle{font-size: 50px;}
+    #threeGifText{padding-top: 8px;font-size: 25px;}
+    #threeGifImg{width: 350px;height: 270px;margin-top: -98px; right: 5px;}
+}
