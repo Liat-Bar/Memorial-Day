@@ -12,25 +12,25 @@ h3{font-size: 20px;}
 .imgCandle{width: 30px;}
 .candlesBtn{font-size: 20px;}
 #prayer{font-size: 25px; margin: 0px; color: white; font-weight: bold;}
-#oneGif{height: 700px;top: 285px;right: 48px; width: 400px;}
-#oneGifImg{width: 400px;margin-top: 310px; height: 400px;}
+#oneGif{height: 500px;top: 285px;right: 25px; width: 300px;}
+#oneGifImg{width: 300px;margin-top: 280px; height: 250px;}
 #oneGifTitle{font-size: 80px;}
-#oneGifText{padding-top: 8px;font-size: 30px;}
+#oneGifText{padding-top: 8px;font-size:20px;}
 #x{width: 40px;}
-#xBtn{right: 350px;top: 5px;}
-#twoGif{height: 700px;top: 285px;right: 48px; width: 400px;}
-#twoGifImg{width: 400px;margin-top: 410px; height: 400px;}
+#xBtn{right: 250px;top: 5px;}
+#twoGif{height: 500px;top: 285px;right: 25px; width: 300px;}
+#twoGifImg{width: 300px;margin-top: 280px; height: 250px;}
 #twoGifTitle{font-size: 80px;}
-#twoGifText{padding-top: 8px;font-size:30px;}
-#userText{font-size: 25px;padding-top: 40px;}
+#twoGifText{padding-top: 8px;font-size:20px;}
+#userText{font-size: 20px;padding-top: 40px;}
 #xTwo{width: 40px;}
-#xTwoBtn{right: 350px;top: 5px;}
-#threeGif{height: 700px;top: 285px;right: 48px; width: 400px;}
-#xBtnThree{right: 350px;top: 5px;}
+#xTwoBtn{right: 250px;top: 5px;}
+#threeGif{height: 500px;top: 285px;right:25px; width: 300px;}
+#xBtnThree{right: 260px;top: 5px;}
 #xThree{width: 40px;}
 #threeGifTitle{font-size: 80px;}
-#threeGifText{padding-top: 8px;font-size:30px;}
-#threeGifImg{width: 405px;margin-top: -29px; height: 400px;}
+#threeGifText{padding-top: 8px;font-size:25px;}
+#threeGifImg{width: 305px;margin-top: -80px; height: 250px;}
 }
  @media (min-width: 601px) and (max-width: 850px) { 
     body{width: 90%;font-size: 15px;padding: 0px;background: linear-gradient(110deg, #02213a6b 60%, #a3a295 60%);;justify-content: center;}
@@ -66,3 +66,4 @@ h3{font-size: 20px;}
     #threeGifText{padding-top: 8px;font-size: 40px;}
     #threeGifImg{width: 505px;margin-top: 170px; height: 500px;}
 }
+
