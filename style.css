@@ -1,0 +1,34 @@
+body{background-color: black;font-family: system-ui;opacity: 1.9;position: relative;}
+#constractor{background-image: url(./img/back.webp);background-repeat:no-repeat;background-size: cover;}
+#title{text-align: center;padding: 20px;}
+h2{font-size: 58px;color: #11658b;text-shadow: 2px 1px #9e9e9e;}
+#prayer{font-size: 48px;color: #11658b;font-weight: bold;}
+#boxes{display: flex;justify-content: space-around;padding: 30px;}
+h3{font-size: 40px;color: #11658b;text-shadow: 2px 1px #9e9e9e;text-align: center}
+#boxOne{border: 3px solid #11658b99;padding: 25px;border-radius: 11px;background-color: #dce6eb;text-align: center;}
+.imgCandle{width: 55px;}
+.candlesBtn{font-size: 30px;color: white;border: 2px solid #607d8b;border-radius: 8px;padding: 5px;background-color: #607d8bd1;cursor: pointer;}
+.candlesBtn:hover {box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);font-size: 25px;}
+#boxTwo{border: 3px solid #11658b99;padding: 25px;border-radius: 11px;background-color: #dce6eb;text-align: center;}
+#textInput{border: 1px solid #607d8b;font-size: 44px;border-radius: 7px;}
+#boxThree{border: 3px solid #11658b99;padding: 25px;border-radius: 11px;background-color: #dce6eb;text-align: center;width: 295px;}
+#oneGif{position: absolute;top: 185px;right: 600px;background-color: black;height: 754px;color: white;border: 1px;border-radius: 23px;display: none;}
+#oneGifImg{width: 700px;margin-top: 228px;border: 1px;border-radius: 23px;}
+#x{width: 50px;cursor: pointer;}
+#xBtn{background-color: black;position: absolute;right: 643px;border: 1px;padding: 1px;margin: 1px;border-radius: 28px;}
+#oneGifTitle{font-size: 129px;margin: 32px auto -19px;text-align: center;}
+#oneGifText{font-size: 40px;margin-bottom: -208px;text-align: center;  }
+#twoGif{position: absolute;top: 185px;right: 600px;background-color: black;height: 754px;color: white;border: 1px;border-radius: 23px;   display: none;}
+#xTwoBtn{background-color: black;position: absolute;right: 643px;border: 1px;padding: 1px;margin: 1px;border-radius: 28px; }
+#xTwo{width: 50px;cursor: pointer;}
+#twoGifTitle{font-size: 129px;margin: 32px auto -19px;text-align: center;}
+#twoGifText{font-size: 40px;margin-bottom: -208px;text-align: center;  }
+#userText{font-size: 40px;margin-bottom: -208px;text-align: center;  }
+#twoGifImg{width: 700px;margin-top: 228px;border: 1px;border-radius: 23px;}
+#threeGif{position: absolute;top: 185px;right: 800px;background-color: black;height: 754px;color: white;border: 1px;border-radius: 23px;padding: 5px;display: none;}
+#xBtnThree{background-color: black;position: absolute;right: 363px;border: 1px;padding: 1px;margin: 1px;border-radius: 28px;  }
+#xThree{width: 50px;cursor: pointer; }
+#threeGifTitle{font-size: 129px;margin: 32px auto -19px;text-align: center;}
+#threeGifText{font-size: 40px;margin-bottom: -208px;text-align: center; }
+#threeGifImg{position: absolute;top: 335px;right: 2px;background-color: black;height: 428px;color: white;border: 1px;border-radius: 23px;}
+#userText{color: white;}
